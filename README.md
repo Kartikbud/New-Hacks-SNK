@@ -1,6 +1,6 @@
 # New-Hacks-SNK
 
-**##Inspiration
+**## Inspiration
 In disaster scenarios like the 2010 Haiti earthquake, where 300,000 people were injured, access to professional medical care is often limited. 
 In disaster zones like these where traditional medical resources are scarce or delayed, MedScope aims to empower individuals to provide immediate aid in emergency situations by leveraging readily available objects in their surroundings.
 MedScope bridges the gap between injury onsets and the arrival of professional medical teams by informing the users on how to improvise medical solutions using the materials available around them (ex. To use as stretchers, fabrics to use as bandages). 
